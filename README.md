@@ -209,6 +209,9 @@ To clean up all resources:
 terraform destroy
 ```
 
+<img width="1895" height="1012" alt="image" src="https://github.com/user-attachments/assets/a9ca4204-1d53-473d-8f88-53272c73f0a8" />
+
+
 ---
 
 ## 👩‍💻 Author
