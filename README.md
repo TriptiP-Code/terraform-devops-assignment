@@ -1,4 +1,4 @@
-<img width="1918" height="1008" alt="image" src="https://github.com/user-attachments/assets/96f591f7-e5f7-4cfe-b004-8cb44ffc3bfe" /># Terraform Infrastructure – AWS DevOps Case Study
+# Terraform Infrastructure – AWS DevOps Case Study
 
 This repository contains the **Terraform code** used to provision and manage the AWS infrastructure for the DevOps assignment  project.
 Code Repo link : https://github.com/TriptiP-Code/backend
